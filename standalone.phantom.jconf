@@ -534,26 +534,8 @@
          <keyboard_mouse_proxy>Keyboard Proxy</keyboard_mouse_proxy>
          <key_pair>
             <key_modifier_pair name="KeyPresses 0" version="1">
-               <modifier_key>ANY</modifier_key>
+               <modifier_key>CTRL</modifier_key>
                <key>KEY_Q</key>
-            </key_modifier_pair>
-         </key_pair>
-         <key_pair>
-            <key_modifier_pair name="KeyPresses 1" version="1">
-               <modifier_key>ANY</modifier_key>
-               <key>KEY_W</key>
-            </key_modifier_pair>
-         </key_pair>
-         <key_pair>
-            <key_modifier_pair name="KeyPresses 2" version="1">
-               <modifier_key>ANY</modifier_key>
-               <key>KEY_E</key>
-            </key_modifier_pair>
-         </key_pair>
-         <key_pair>
-            <key_modifier_pair name="KeyPresses 3" version="1">
-               <modifier_key>ANY</modifier_key>
-               <key>KEY_R</key>
             </key_modifier_pair>
          </key_pair>
       </simulated_digital_device>
